@@ -48,6 +48,6 @@ jobs:
           filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           base: ""
-          plugin_leetcode_user: "IceDreem"
+          plugin_leetcode_user: "https://leetcode.com/u/IceDreem/"
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills
