@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<div style="display:flex; flex-direction: row; justify-content: space-around; align-items: center;">
-  <img src="/metrics.base.svg" alt="Metrics" style="width: 49%; min-width: 400px">
-  <img src="/calendar.svg" alt="Metrics" style="width: 49%; min-width: 400px">
-</div>
-<img src="/metrics.languages.svg" alt="Metrics" style="width: 70%; min-width: 600px; margin: auto 0;">
+<img align="left" width="45%" src="https://github.com/JohnGabb12/JohnGabb12/metrics.base.svg">
+<img align="right" width="45%" src="https://github.com/JohnGabb12/JohnGabb12/calendar.svg">
+<img src="https://github.com/JohnGabb12/JohnGabb12/metrics.languages.svg" alt="Metrics" style="width: 100%;">
