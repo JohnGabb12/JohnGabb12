@@ -42,12 +42,3 @@ jobs:
           filename: calendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half_year
-      - name: LeetCode
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.leetcode.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_leetcode_user: "https://leetcode.com/u/IceDreem/"
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills
